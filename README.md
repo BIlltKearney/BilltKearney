@@ -10,7 +10,7 @@ When I am not working, I like to keep up on new innovations in industry and busi
 - 👯 I’m looking to collaborate on some opensource projects similar to https://github.com/jujumo/gpsbip-configurator
 - 💬 Ask me about whatever
 - 📫 How to reach me: billtkearney@gmail.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 <!--
 **BIlltKearney/BilltKearney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
