@@ -1,4 +1,4 @@
-Hello!
+Hello! :wave:
 
 I love creating and building things, I always have. Being a web developer allows me to do something I love, online. Presently, I am working as a Graphic Arts Technology Education teacher. In the past I have worked as a freelance web developer, worked in telecommunications, electro-mechanical manufacturing, and served full-time in the US ARMY.
 
